@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,shell,rebol&theme=synthwave" />
 </a>
 
-- 🔭 I’m currently working on Dango projects, and a secret-app!
+- 🔭 I’m currently working on Dango projects, and an android app!
 - 🌱 I’m currently learning: Python/Django, SQL, Webdev, Kotlin
 - 👯 I’m looking to collaborate on anything python
 - 🤔 I’m looking for help with landing any tech job
