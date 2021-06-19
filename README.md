@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gleaminggorillas&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,shell,rebol&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,rebol&theme=synthwave" />
 </a>
 
 - 🔭 I’m currently working on Dango projects, and an android app!
