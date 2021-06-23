@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,rebol&theme=synthwave" />
 </a>
 <br/><br/>
-- 🔭 I’m currently working on Django projects, C/C++ Data Structures, RecComSended: a web-app to store ingredients and recipes; a web-app for sending files en-masse to your Kindle devide, and a secret android app!
+- 🔭 I’m currently working on Django projects, C/C++ Data Structures, RecComSended: a web-app to store ingredients and recipes; a web-app for sending files en-masse to your Kindle device, and a secret android app!
 <br/><br/>
 - 🌱 I’m currently learning: Python/Django/Flask, SQL, Webdev, Kotlin
 <br/><br/>
