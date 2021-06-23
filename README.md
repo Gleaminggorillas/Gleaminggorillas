@@ -32,5 +32,6 @@
 <br/><br/>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have walked across England! (Wainwright C2C)
+<br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gleaminggorillas&theme=gruvbox&magin-h=30&column=7)](https://github.com/ryo-ma/github-profile-trophy)
