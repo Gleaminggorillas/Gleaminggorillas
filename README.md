@@ -21,11 +21,11 @@
 <br/><br/>
 - 🔭 I’m currently working on Django projects, C/C++ Data Structures, RecComSended: a web-app to store ingredients and recipes; a web-app for sending files en-masse to your Kindle device, and a secret android app!
 <br/><br/>
-- 🌱 I’m currently learning: Python/Django/Flask, SQL, Webdev, Kotlin
+- 🌱 I’m currently learning: Python/Django, SQL, Webdev, Rust, Kotlin, JS
 <br/><br/>
 - 👯 I’m looking to collaborate on anything python!!
 <br/><br/>
-- 🤔 I’m looking for help with landing any tech job
+- 🤔 I’m looking for help with landing any tech job, and the best programming learning resources you would recommend!
 <br/><br/>
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Github
