@@ -19,9 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,rebol,javascript,css&theme=synthwave" />
 </a>
 <br/><br/>
-- 🔭 I’m currently working on Django projects, C/C++ Data Structures, RecComSended: a web-app to store ingredients and recipes; a web-app for sending files en-masse to your Kindle device, and a secret android app!
+- 🔭 I’m currently working on... production Clojure & Rust, DevOps, Cloud & Data
 <br/><br/>
-- 🌱 I’m currently learning: Python/Django, SQL, Webdev, Rust, Kotlin, JS
+- 🌱 I’m currently learning: Rust, SQL, Clojure/ClojureScript, JS
 <br/><br/>
 - 👯 I’m looking to collaborate on anything python!!
 <br/><br/>
