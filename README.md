@@ -19,16 +19,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleaminggorillas&hide=ruby,rebol,javascript,css&theme=synthwave" />
 </a>
 <br/><br/>
-- 🔭 I’m currently working on... production Clojure & Rust, DevOps, Cloud & Data
+- 🔭 I’m currently working on video games!
 <br/><br/>
-- 🌱 I’m currently learning: Rust, SQL, Clojure/ClojureScript, JS
+- 🌱 I’m currently learning: Processor Architecture, Medicine, CS and System Design
 <br/><br/>
-- 👯 I’m looking to collaborate on anything python!!
+- 👯 I’m looking to collaborate if you can sell me a video game idea in Godot or Bevy
 <br/><br/>
-- 🤔 I’m looking for help with landing any tech job, and the best programming learning resources you would recommend!
+- 🤔 I’m optn to any discussion & advice on advanced game design and implementation
 <br/><br/>
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Github
+- 📫 How to reach me: Send me a message here on GitHub
 <br/><br/>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have walked across England! (Wainwright C2C)
