@@ -25,7 +25,7 @@
 <br/><br/>
 - 👯 I’m looking to collaborate if you can sell me a video game idea in Godot or Bevy
 <br/><br/>
-- 🤔 I’m optn to any discussion & advice on advanced game design and implementation
+- 🤔 I’m open to any discussion & advice on advanced game design and implementation
 <br/><br/>
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Send me a message here on GitHub
